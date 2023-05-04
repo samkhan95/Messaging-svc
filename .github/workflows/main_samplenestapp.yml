@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: 'samplenestapp'
+  AZURE_WEBAPP_NAME: 'sampleanestapp'
   NODE_VERSION: '18.x' 
 
 jobs:
